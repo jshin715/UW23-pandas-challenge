@@ -1,6 +1,6 @@
 # UW23-pandas-challenge
 
-Task: Analyze the district-wide standardi test results and aggregate teh data to showcase trends in obvious school performance.
+Task: Analyze the district-wide standardized test results and aggregate teh data to showcase trends in obvious school performance.
 
 Analysis result file: PyCitySchools > PyCitySchools_main.ipynb (Jupyter Notebook)
 
